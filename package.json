@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/5tigerjelly/twice-youtube-view-counter#readme",
   "dependencies": {
-    "youtube-channel-videos": "^1.0.0"
+    "node-fetch": "^2.1.2"
   }
 }
