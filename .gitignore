@@ -1,4 +1,5 @@
-credentials.js
+credential.js
+
 # Logs
 logs
 *.log
